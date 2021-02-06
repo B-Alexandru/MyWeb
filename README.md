@@ -1,2 +1,2 @@
 # MyWeb
- personal website
+ basic website build with Flask
